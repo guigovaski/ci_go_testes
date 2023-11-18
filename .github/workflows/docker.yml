@@ -40,6 +40,6 @@ jobs:
     # Path to the Dockerfile
           file: ./Dockerfile
           push: true
-          tags: govaskigui/go_test:master@v1
+          tags: govaskigui/go_test:master
           
           
